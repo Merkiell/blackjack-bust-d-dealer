@@ -1,0 +1,43 @@
+Configuration
+Strategies_Tested,"Always Stand at 12+, Always Stand at 16+"
+Num_Decks,6
+Total_Cards_Per_Shoe,312
+Scenarios_Per_Strategy,10
+Rounds_Per_Scenario,25
+Starting_Bankroll,2000.0
+Base_Bet_Amount,50.0
+Target_Multiplier,1.5
+Target_Profit,3000.0
+
+S12_Summary
+S12_Strategy_Name,Always Stand at 12+
+S12_Average_Profit_Loss,-77.5
+S12_Total_Profit_Loss,-775.0
+S12_Profitable_Scenarios,4
+S12_Success_Rate_%,40.0
+S12_Target_Reached_Scenarios,0
+S12_Target_Rate_%,0.0
+S12_Busted_Scenarios,0
+S12_Bust_Rate_%,0.0
+S12_Best_Scenario_Profit,2250.0
+S12_Worst_Scenario_Profit,-1825.0
+
+S16_Summary
+S16_Strategy_Name,Always Stand at 16+
+S16_Average_Profit_Loss,300.0
+S16_Total_Profit_Loss,3000.0
+S16_Profitable_Scenarios,6
+S16_Success_Rate_%,60.0
+S16_Target_Reached_Scenarios,0
+S16_Target_Rate_%,0.0
+S16_Busted_Scenarios,2
+S16_Bust_Rate_%,20.0
+S16_Best_Scenario_Profit,2025.0
+S16_Worst_Scenario_Profit,-2000.0
+
+Strategy_Comparison
+Metric,Stand_at_12,Stand_at_16,Better_Strategy
+Average_Profit,$-77.50,$300.00,S16
+Success_Rate_%,40.0%,60.0%,S16
+Target_Rate_%,0.0%,0.0%,S16
+Bust_Rate_%,0.0%,20.0%,S12

@@ -1,0 +1,184 @@
+Strategy,Scenario,Hand_Number,Player_Cards,Dealer_Cards,Player_Total,Dealer_Total,Player_Action,Bet_Amount,Result,Money_Change,Player_Busted,Dealer_Busted,Is_Blackjack,Bankroll_After,Cards_Count,Deck_Penetration_%,Cards_Remaining,Reshuffled_After
+S16,1,1,K of Spades | 3 of Clubs | 3 of Spades,5 of Diamonds | K of Spades | A of Diamonds | 6 of Clubs,16,22,Hit,50.0,Win,50.0,False,True,False,2050.0,7,2.2%,305,False
+S16,1,2,3 of Hearts | J of Spades | 10 of Hearts,Q of Hearts | Q of Diamonds,23,20,Hit,50.0,Loss,-50.0,True,False,False,2000.0,5,3.8%,300,False
+S16,1,3,6 of Diamonds | 5 of Hearts | 8 of Diamonds,7 of Hearts | J of Clubs,19,17,Hit,150.0,Win,150.0,False,False,False,2150.0,5,5.4%,295,False
+S16,1,4,10 of Spades | 8 of Diamonds,6 of Hearts | 8 of Hearts | K of Hearts,18,24,Stand,50.0,Win,50.0,False,True,False,2200.0,5,7.1%,290,False
+S16,1,5,3 of Clubs | Q of Hearts | 5 of Spades,2 of Hearts | 10 of Clubs | 3 of Spades | Q of Spades,18,25,Hit,50.0,Win,50.0,False,True,False,2250.0,7,9.3%,283,False
+S16,1,6,K of Spades | 6 of Hearts,A of Spades | J of Hearts,16,21,Stand,50.0,Loss,-50.0,False,False,False,2200.0,4,10.6%,279,False
+S16,1,7,9 of Hearts | K of Hearts,2 of Clubs | 6 of Diamonds | 4 of Hearts | 6 of Diamonds,19,18,Stand,150.0,Win,150.0,False,False,False,2350.0,6,12.5%,273,False
+S16,1,8,A of Hearts | J of Diamonds,K of Hearts | 9 of Clubs,21,19,Blackjack,50.0,Blackjack,75.0,False,False,True,2425.0,4,13.8%,269,False
+S16,1,9,Q of Clubs | 8 of Spades,J of Spades | A of Hearts,18,21,Stand,50.0,Loss,-50.0,False,False,False,2375.0,4,15.1%,265,False
+S16,1,10,K of Clubs | 3 of Hearts | 7 of Clubs,5 of Clubs | 9 of Spades | 8 of Clubs,20,22,Hit,150.0,Win,150.0,False,True,False,2525.0,6,17.0%,259,False
+S16,1,11,9 of Clubs | Q of Hearts,10 of Hearts | 10 of Diamonds,19,20,Stand,50.0,Loss,-50.0,False,False,False,2475.0,4,18.3%,255,False
+S16,1,12,J of Clubs | Q of Clubs,4 of Hearts | 8 of Clubs | 3 of Hearts | 6 of Diamonds,20,21,Stand,150.0,Loss,-150.0,False,False,False,2325.0,6,20.2%,249,False
+S16,1,13,10 of Diamonds | Q of Diamonds,J of Spades | 2 of Clubs | 6 of Spades,20,18,Stand,450.0,Win,450.0,False,False,False,2775.0,5,21.8%,244,False
+S16,1,14,9 of Diamonds | K of Spades,2 of Diamonds | 5 of Hearts | 5 of Clubs | K of Diamonds,19,22,Stand,50.0,Win,50.0,False,True,False,2825.0,6,23.7%,238,False
+S16,1,15,K of Clubs | 2 of Spades | 5 of Clubs,J of Hearts | K of Clubs,17,20,Hit,50.0,Loss,-50.0,False,False,False,2775.0,5,25.3%,233,False
+S16,1,16,9 of Diamonds | 2 of Clubs | 3 of Spades | 3 of Spades,K of Spades | 5 of Diamonds | 6 of Diamonds,17,21,Hit,150.0,Loss,-150.0,False,False,False,2625.0,7,27.6%,226,False
+S16,1,17,9 of Hearts | 8 of Clubs,A of Diamonds | 9 of Hearts,17,20,Stand,450.0,Loss,-450.0,False,False,False,2175.0,4,28.8%,222,False
+S16,1,18,Q of Clubs | A of Diamonds,6 of Diamonds | 8 of Spades,21,14,Blackjack,1350.0,Blackjack,2025.0,False,False,True,4200.0,4,30.1%,218,False
+S16,1,19,4 of Diamonds | J of Diamonds | 5 of Diamonds,3 of Hearts | 9 of Spades | 2 of Clubs | 9 of Clubs,19,23,Hit,50.0,Win,50.0,False,True,False,4250.0,7,32.4%,211,False
+S16,1,20,8 of Clubs | 4 of Clubs | J of Spades,A of Diamonds | 7 of Diamonds,22,18,Hit,50.0,Loss,-50.0,True,False,False,4200.0,5,34.0%,206,False
+S16,1,21,6 of Spades | 8 of Clubs | 10 of Diamonds,J of Diamonds | 10 of Clubs,24,20,Hit,150.0,Loss,-150.0,True,False,False,4050.0,5,35.6%,201,False
+S16,1,22,2 of Spades | Q of Diamonds | 3 of Clubs | 7 of Hearts,10 of Spades | 2 of Hearts,22,12,Hit,450.0,Loss,-450.0,True,False,False,3600.0,6,37.5%,195,False
+S16,1,23,3 of Spades | K of Spades | 4 of Hearts,A of Diamonds | 5 of Hearts | 7 of Spades | 2 of Hearts | A of Clubs | A of Spades,17,17,Hit,1350.0,Draw,0.0,False,False,False,3600.0,9,40.4%,186,False
+S16,1,24,Q of Clubs | 7 of Clubs,9 of Diamonds | 7 of Spades | 6 of Clubs,17,22,Stand,50.0,Win,50.0,False,True,False,3650.0,5,42.0%,181,False
+S16,1,25,8 of Spades | J of Spades,8 of Diamonds | K of Hearts,18,18,Stand,50.0,Draw,0.0,False,False,False,3650.0,4,43.3%,177,False
+S16,2,1,9 of Spades | 10 of Spades,4 of Hearts | K of Hearts | A of Spades | 10 of Spades,19,25,Stand,50.0,Win,50.0,False,True,False,2050.0,6,1.9%,306,False
+S16,2,2,10 of Spades | 2 of Spades | Q of Spades,7 of Hearts | 5 of Diamonds,22,12,Hit,50.0,Loss,-50.0,True,False,False,2000.0,5,3.5%,301,False
+S16,2,3,6 of Clubs | 9 of Clubs | 8 of Spades,K of Clubs | 6 of Spades,23,16,Hit,150.0,Loss,-150.0,True,False,False,1850.0,5,5.1%,296,False
+S16,2,4,4 of Spades | 7 of Diamonds | 4 of Hearts | 5 of Spades,J of Hearts | 8 of Diamonds,20,18,Hit,450.0,Win,450.0,False,False,False,2300.0,6,7.1%,290,False
+S16,2,5,J of Spades | K of Diamonds,J of Clubs | A of Diamonds,20,21,Stand,50.0,Loss,-50.0,False,False,False,2250.0,4,8.3%,286,False
+S16,2,6,2 of Clubs | 2 of Spades | 10 of Clubs | 4 of Clubs,8 of Diamonds | 7 of Spades | Q of Hearts,18,25,Hit,150.0,Win,150.0,False,True,False,2400.0,7,10.6%,279,False
+S16,2,7,10 of Clubs | 3 of Diamonds | Q of Hearts,3 of Hearts | 4 of Clubs,23,7,Hit,50.0,Loss,-50.0,True,False,False,2350.0,5,12.2%,274,False
+S16,2,8,J of Clubs | K of Diamonds,3 of Diamonds | 10 of Hearts | K of Hearts,20,23,Stand,150.0,Win,150.0,False,True,False,2500.0,5,13.8%,269,False
+S16,2,9,K of Hearts | K of Clubs,2 of Clubs | 7 of Clubs | 7 of Clubs | J of Hearts,20,26,Stand,50.0,Win,50.0,False,True,False,2550.0,6,15.7%,263,False
+S16,2,10,2 of Hearts | J of Spades | 10 of Diamonds,8 of Clubs | 10 of Clubs,22,18,Hit,50.0,Loss,-50.0,True,False,False,2500.0,5,17.3%,258,False
+S16,2,11,3 of Spades | K of Spades | Q of Spades,6 of Diamonds | 3 of Spades,23,9,Hit,150.0,Loss,-150.0,True,False,False,2350.0,5,18.9%,253,False
+S16,2,12,2 of Hearts | 3 of Clubs | 6 of Spades | Q of Diamonds,5 of Diamonds | 8 of Clubs | 10 of Spades,21,23,Hit,450.0,Win,450.0,False,True,False,2800.0,7,21.2%,246,False
+S16,2,13,8 of Diamonds | 7 of Hearts | A of Hearts,A of Clubs | 8 of Diamonds,16,19,Hit,50.0,Loss,-50.0,False,False,False,2750.0,5,22.8%,241,False
+S16,2,14,9 of Spades | 9 of Spades,2 of Clubs | 6 of Diamonds | Q of Clubs,18,18,Stand,150.0,Draw,0.0,False,False,False,2750.0,5,24.4%,236,False
+S16,2,15,5 of Hearts | 3 of Diamonds | Q of Hearts,K of Spades | 4 of Spades | 7 of Hearts,18,21,Hit,50.0,Loss,-50.0,False,False,False,2700.0,6,26.3%,230,False
+S16,2,16,2 of Spades | A of Hearts | A of Diamonds | 7 of Spades,3 of Hearts | 10 of Hearts | 2 of Diamonds | 2 of Diamonds,21,17,Hit,150.0,Win,150.0,False,False,False,2850.0,8,28.8%,222,False
+S16,2,17,9 of Clubs | 4 of Clubs | 8 of Clubs,6 of Hearts | 2 of Hearts | 2 of Spades | 10 of Clubs,21,20,Hit,50.0,Win,50.0,False,False,False,2900.0,7,31.1%,215,False
+S16,2,18,6 of Hearts | 6 of Diamonds | 3 of Diamonds | 6 of Clubs,8 of Spades | K of Spades,21,18,Hit,50.0,Win,50.0,False,False,False,2950.0,6,33.0%,209,False
+S16,2,19,9 of Hearts | K of Hearts,6 of Clubs | 9 of Clubs | 8 of Diamonds,19,23,Stand,50.0,Win,50.0,False,True,False,3000.0,5,34.6%,204,False
+S16,2,20,A of Spades | 2 of Hearts | Q of Clubs | 4 of Spades,9 of Hearts | 9 of Clubs,17,18,Hit,50.0,Loss,-50.0,False,False,False,2950.0,6,36.5%,198,False
+S16,2,21,5 of Spades | 8 of Clubs | K of Spades,Q of Spades | 3 of Clubs,23,13,Hit,150.0,Loss,-150.0,True,False,False,2800.0,5,38.1%,193,False
+S16,2,22,3 of Hearts | 5 of Clubs | A of Spades,7 of Spades | 8 of Hearts | 7 of Diamonds,19,22,Hit,450.0,Win,450.0,False,True,False,3250.0,6,40.1%,187,False
+S16,2,23,K of Diamonds | A of Clubs,A of Clubs | 4 of Clubs,21,15,Blackjack,50.0,Blackjack,75.0,False,False,True,3325.0,4,41.3%,183,False
+S16,2,24,4 of Hearts | 4 of Diamonds | J of Diamonds,6 of Hearts | 5 of Spades | K of Diamonds,18,21,Hit,50.0,Loss,-50.0,False,False,False,3275.0,6,43.3%,177,False
+S16,2,25,A of Hearts | 5 of Diamonds,3 of Spades | Q of Clubs | 5 of Clubs,16,18,Stand,150.0,Loss,-150.0,False,False,False,3125.0,5,44.9%,172,False
+S16,3,1,6 of Clubs | J of Spades,2 of Spades | 6 of Diamonds | A of Spades,16,19,Stand,50.0,Loss,-50.0,False,False,False,1950.0,5,1.6%,307,False
+S16,3,2,7 of Hearts | 9 of Spades,6 of Spades | 10 of Hearts | Q of Spades,16,26,Stand,150.0,Win,150.0,False,True,False,2100.0,5,3.2%,302,False
+S16,3,3,3 of Clubs | A of Spades | 3 of Clubs,3 of Hearts | Q of Hearts | 7 of Spades,17,20,Hit,50.0,Loss,-50.0,False,False,False,2050.0,6,5.1%,296,False
+S16,3,4,9 of Hearts | J of Hearts,9 of Clubs | J of Clubs,19,19,Stand,150.0,Draw,0.0,False,False,False,2050.0,4,6.4%,292,False
+S16,3,5,9 of Spades | K of Diamonds,7 of Spades | 9 of Hearts | 7 of Diamonds,19,23,Stand,50.0,Win,50.0,False,True,False,2100.0,5,8.0%,287,False
+S16,3,6,10 of Hearts | 5 of Diamonds | 5 of Clubs,8 of Diamonds | 8 of Spades | K of Hearts,20,26,Hit,50.0,Win,50.0,False,True,False,2150.0,6,9.9%,281,False
+S16,3,7,10 of Spades | 7 of Clubs,2 of Spades | 8 of Diamonds | J of Hearts,17,20,Stand,50.0,Loss,-50.0,False,False,False,2100.0,5,11.5%,276,False
+S16,3,8,K of Clubs | Q of Clubs,3 of Diamonds | A of Diamonds | 2 of Diamonds | 3 of Hearts,20,19,Stand,150.0,Win,150.0,False,False,False,2250.0,6,13.5%,270,False
+S16,3,9,J of Spades | 4 of Clubs | 4 of Diamonds,J of Hearts | 5 of Clubs | 4 of Diamonds,18,19,Hit,50.0,Loss,-50.0,False,False,False,2200.0,6,15.4%,264,False
+S16,3,10,5 of Diamonds | J of Clubs | A of Diamonds,K of Clubs | 4 of Spades | 9 of Hearts,16,23,Hit,150.0,Win,150.0,False,True,False,2350.0,6,17.3%,258,False
+S16,3,11,10 of Hearts | 6 of Diamonds,2 of Diamonds | A of Hearts | A of Spades | 2 of Diamonds | A of Spades,16,17,Stand,50.0,Loss,-50.0,False,False,False,2300.0,7,19.6%,251,False
+S16,3,12,7 of Spades | K of Hearts,8 of Diamonds | K of Hearts,17,18,Stand,150.0,Loss,-150.0,False,False,False,2150.0,4,20.8%,247,False
+S16,3,13,4 of Spades | 6 of Hearts | 10 of Diamonds,5 of Diamonds | A of Diamonds | 7 of Diamonds | 8 of Clubs,20,21,Hit,450.0,Loss,-450.0,False,False,False,1700.0,7,23.1%,240,False
+S16,3,14,5 of Diamonds | 5 of Hearts | 10 of Clubs,K of Spades | 6 of Clubs | 3 of Spades,20,19,Hit,1350.0,Win,1350.0,False,False,False,3050.0,6,25.0%,234,False
+S16,3,15,Q of Spades | 3 of Clubs | 4 of Hearts,K of Clubs | 5 of Spades | 7 of Clubs,17,22,Hit,50.0,Win,50.0,False,True,False,3100.0,6,26.9%,228,False
+S16,3,16,9 of Diamonds | 9 of Diamonds,4 of Hearts | 3 of Spades | 5 of Spades | 3 of Diamonds | 2 of Clubs,18,17,Stand,50.0,Win,50.0,False,False,False,3150.0,7,29.2%,221,False
+S16,3,17,Q of Hearts | J of Spades,4 of Spades | 5 of Hearts | 6 of Clubs | K of Diamonds,20,25,Stand,50.0,Win,50.0,False,True,False,3200.0,6,31.1%,215,False
+S16,3,18,4 of Clubs | 2 of Clubs | Q of Clubs,10 of Clubs | 4 of Hearts | A of Spades | Q of Diamonds,16,25,Hit,50.0,Win,50.0,False,True,False,3250.0,7,33.3%,208,False
+S16,3,19,3 of Diamonds | J of Diamonds | 7 of Hearts,8 of Hearts | 9 of Clubs,20,17,Hit,50.0,Win,50.0,False,False,False,3300.0,5,34.9%,203,False
+S16,3,20,8 of Clubs | 4 of Diamonds | 8 of Spades,Q of Diamonds | 8 of Clubs,20,18,Hit,50.0,Win,50.0,False,False,False,3350.0,5,36.5%,198,False
+S16,3,21,A of Diamonds | J of Spades,9 of Hearts | 4 of Clubs,21,13,Blackjack,50.0,Blackjack,75.0,False,False,True,3425.0,4,37.8%,194,False
+S16,3,22,8 of Hearts | 8 of Hearts,4 of Hearts | J of Diamonds | Q of Clubs,16,24,Stand,50.0,Win,50.0,False,True,False,3475.0,5,39.4%,189,False
+S16,3,23,8 of Hearts | 6 of Hearts | 8 of Diamonds,3 of Spades | 3 of Spades,22,6,Hit,50.0,Loss,-50.0,True,False,False,3425.0,5,41.0%,184,False
+S16,3,24,2 of Spades | 5 of Spades | J of Hearts,3 of Hearts | 3 of Clubs | 7 of Spades | 7 of Diamonds,17,20,Hit,150.0,Loss,-150.0,False,False,False,3275.0,7,43.3%,177,False
+S16,3,25,3 of Diamonds | 8 of Spades | 10 of Diamonds,3 of Diamonds | 10 of Clubs | 9 of Clubs,21,22,Hit,450.0,Win,450.0,False,True,False,3725.0,6,45.2%,171,False
+S16,4,1,2 of Spades | 2 of Clubs | 9 of Hearts | A of Diamonds | 3 of Hearts,5 of Clubs | 3 of Spades | 2 of Hearts | 7 of Clubs,17,17,Hit,50.0,Draw,0.0,False,False,False,2000.0,9,2.9%,303,False
+S16,4,2,5 of Spades | Q of Spades | 7 of Clubs,9 of Hearts | Q of Spades,22,19,Hit,50.0,Loss,-50.0,True,False,False,1950.0,5,4.5%,298,False
+S16,4,3,Q of Clubs | J of Hearts,K of Hearts | A of Diamonds,20,21,Stand,150.0,Loss,-150.0,False,False,False,1800.0,4,5.8%,294,False
+S16,4,4,5 of Spades | 4 of Spades | 7 of Clubs,5 of Diamonds | 6 of Hearts | 6 of Hearts,16,17,Hit,450.0,Loss,-450.0,False,False,False,1350.0,6,7.7%,288,False
+S16,4,5,8 of Diamonds | 7 of Diamonds | 7 of Hearts,2 of Clubs | 7 of Clubs,22,9,Hit,1350.0,Loss,-1350.0,True,False,False,0.0,5,9.3%,283,False
+S16,5,1,A of Spades | J of Hearts,4 of Diamonds | 5 of Clubs,21,9,Blackjack,50.0,Blackjack,75.0,False,False,True,2075.0,4,1.3%,308,False
+S16,5,2,Q of Hearts | 2 of Clubs | 8 of Diamonds,2 of Hearts | 9 of Spades | Q of Hearts,20,21,Hit,50.0,Loss,-50.0,False,False,False,2025.0,6,3.2%,302,False
+S16,5,3,5 of Spades | 9 of Hearts | 4 of Spades,J of Clubs | 3 of Hearts | Q of Hearts,18,23,Hit,150.0,Win,150.0,False,True,False,2175.0,6,5.1%,296,False
+S16,5,4,7 of Spades | 5 of Clubs | 9 of Spades,6 of Diamonds | 7 of Clubs | 7 of Hearts,21,20,Hit,50.0,Win,50.0,False,False,False,2225.0,6,7.1%,290,False
+S16,5,5,9 of Clubs | 8 of Clubs,8 of Hearts | 2 of Clubs | K of Hearts,17,20,Stand,50.0,Loss,-50.0,False,False,False,2175.0,5,8.7%,285,False
+S16,5,6,10 of Diamonds | K of Spades,A of Diamonds | J of Diamonds,20,21,Stand,150.0,Loss,-150.0,False,False,False,2025.0,4,9.9%,281,False
+S16,5,7,J of Clubs | 7 of Spades,K of Diamonds | K of Clubs,17,20,Stand,450.0,Loss,-450.0,False,False,False,1575.0,4,11.2%,277,False
+S16,5,8,A of Clubs | K of Clubs,4 of Clubs | A of Hearts,21,15,Blackjack,1350.0,Blackjack,2025.0,False,False,True,3600.0,4,12.5%,273,False
+S16,5,9,J of Hearts | 10 of Clubs,10 of Clubs | 2 of Hearts | 3 of Diamonds | A of Spades | 7 of Hearts,20,23,Stand,50.0,Win,50.0,False,True,False,3650.0,7,14.7%,266,False
+S16,5,10,J of Clubs | 6 of Diamonds,3 of Diamonds | K of Clubs | 7 of Diamonds,16,20,Stand,50.0,Loss,-50.0,False,False,False,3600.0,5,16.3%,261,False
+S16,5,11,5 of Spades | 2 of Spades | 3 of Spades | 8 of Clubs,5 of Diamonds | 9 of Spades | 5 of Clubs,18,19,Hit,150.0,Loss,-150.0,False,False,False,3450.0,7,18.6%,254,False
+S16,5,12,5 of Hearts | A of Spades,10 of Spades | 6 of Hearts | 3 of Clubs,16,19,Stand,450.0,Loss,-450.0,False,False,False,3000.0,5,20.2%,249,False
+S16,5,13,4 of Spades | 3 of Clubs | A of Clubs,3 of Spades | 4 of Clubs | 8 of Spades | 3 of Hearts,18,18,Hit,1350.0,Draw,0.0,False,False,False,3000.0,7,22.4%,242,False
+S16,5,14,J of Clubs | K of Hearts,J of Spades | 10 of Diamonds,20,20,Stand,50.0,Draw,0.0,False,False,False,3000.0,4,23.7%,238,False
+S16,5,15,7 of Hearts | 10 of Clubs,8 of Spades | 2 of Clubs | 6 of Diamonds | 10 of Hearts,17,26,Stand,50.0,Win,50.0,False,True,False,3050.0,6,25.6%,232,False
+S16,5,16,J of Hearts | 4 of Diamonds | 7 of Hearts,10 of Spades | K of Diamonds,21,20,Hit,50.0,Win,50.0,False,False,False,3100.0,5,27.2%,227,False
+S16,5,17,4 of Diamonds | 3 of Clubs | 7 of Clubs | A of Spades | Q of Spades,9 of Clubs | A of Hearts,25,20,Hit,50.0,Loss,-50.0,True,False,False,3050.0,7,29.5%,220,False
+S16,5,18,A of Diamonds | Q of Clubs,A of Spades | 9 of Hearts,21,20,Blackjack,150.0,Blackjack,225.0,False,False,True,3275.0,4,30.8%,216,False
+S16,5,19,9 of Hearts | J of Diamonds,2 of Clubs | 8 of Spades | 10 of Spades,19,20,Stand,50.0,Loss,-50.0,False,False,False,3225.0,5,32.4%,211,False
+S16,5,20,A of Diamonds | 3 of Spades | J of Clubs | J of Spades,5 of Diamonds | 3 of Spades,24,8,Hit,150.0,Loss,-150.0,True,False,False,3075.0,6,34.3%,205,False
+S16,5,21,7 of Clubs | 6 of Clubs | Q of Spades,K of Diamonds | 10 of Hearts,23,20,Hit,450.0,Loss,-450.0,True,False,False,2625.0,5,35.9%,200,False
+S16,5,22,7 of Diamonds | 5 of Diamonds | 8 of Diamonds,10 of Hearts | 5 of Hearts | Q of Spades,20,25,Hit,1350.0,Win,1350.0,False,True,False,3975.0,6,37.8%,194,False
+S16,5,23,4 of Spades | 7 of Clubs | 4 of Clubs | 4 of Hearts,9 of Hearts | 7 of Clubs | 9 of Clubs,19,25,Hit,50.0,Win,50.0,False,True,False,4025.0,7,40.1%,187,False
+S16,5,24,Q of Diamonds | 9 of Spades,3 of Clubs | 5 of Diamonds | 10 of Spades,19,18,Stand,50.0,Win,50.0,False,False,False,4075.0,5,41.7%,182,False
+S16,5,25,J of Hearts | 6 of Spades,3 of Hearts | 2 of Diamonds | K of Hearts | A of Clubs | 4 of Spades,16,20,Stand,50.0,Loss,-50.0,False,False,False,4025.0,7,43.9%,175,False
+S16,6,1,6 of Diamonds | K of Hearts,3 of Spades | 4 of Clubs | A of Diamonds,16,18,Stand,50.0,Loss,-50.0,False,False,False,1950.0,5,1.6%,307,False
+S16,6,2,3 of Spades | 5 of Hearts | 8 of Spades,9 of Diamonds | 6 of Spades | 6 of Spades,16,21,Hit,150.0,Loss,-150.0,False,False,False,1800.0,6,3.5%,301,False
+S16,6,3,7 of Diamonds | A of Spades,A of Hearts | A of Hearts | 7 of Clubs,18,19,Stand,450.0,Loss,-450.0,False,False,False,1350.0,5,5.1%,296,False
+S16,6,4,8 of Spades | A of Hearts,A of Clubs | 8 of Spades,19,19,Stand,1350.0,Draw,0.0,False,False,False,1350.0,4,6.4%,292,False
+S16,6,5,J of Hearts | 2 of Hearts | 9 of Hearts,7 of Spades | Q of Hearts,21,17,Hit,50.0,Win,50.0,False,False,False,1400.0,5,8.0%,287,False
+S16,6,6,Q of Spades | 3 of Clubs | Q of Diamonds,6 of Diamonds | 10 of Diamonds,23,16,Hit,50.0,Loss,-50.0,True,False,False,1350.0,5,9.6%,282,False
+S16,6,7,5 of Diamonds | 10 of Spades | J of Spades,J of Diamonds | J of Hearts,25,20,Hit,150.0,Loss,-150.0,True,False,False,1200.0,5,11.2%,277,False
+S16,6,8,7 of Spades | K of Diamonds,3 of Clubs | 5 of Hearts | 7 of Diamonds | 10 of Diamonds,17,25,Stand,450.0,Win,450.0,False,True,False,1650.0,6,13.1%,271,False
+S16,6,9,5 of Diamonds | 9 of Diamonds | 7 of Hearts,K of Diamonds | 2 of Diamonds | 7 of Clubs,21,19,Hit,50.0,Win,50.0,False,False,False,1700.0,6,15.1%,265,False
+S16,6,10,8 of Diamonds | 4 of Clubs | Q of Spades,9 of Hearts | 3 of Clubs,22,12,Hit,50.0,Loss,-50.0,True,False,False,1650.0,5,16.7%,260,False
+S16,6,11,Q of Diamonds | 10 of Spades,Q of Diamonds | 5 of Hearts | 3 of Clubs,20,18,Stand,150.0,Win,150.0,False,False,False,1800.0,5,18.3%,255,False
+S16,6,12,8 of Clubs | 6 of Clubs | 9 of Diamonds,5 of Diamonds | 10 of Hearts,23,15,Hit,50.0,Loss,-50.0,True,False,False,1750.0,5,19.9%,250,False
+S16,6,13,A of Hearts | K of Hearts,J of Diamonds | K of Hearts,21,20,Blackjack,150.0,Blackjack,225.0,False,False,True,1975.0,4,21.2%,246,False
+S16,6,14,10 of Clubs | 2 of Clubs | K of Diamonds,5 of Clubs | Q of Hearts,22,15,Hit,50.0,Loss,-50.0,True,False,False,1925.0,5,22.8%,241,False
+S16,6,15,2 of Diamonds | 3 of Spades | A of Diamonds,A of Clubs | 3 of Hearts | 3 of Diamonds,16,17,Hit,150.0,Loss,-150.0,False,False,False,1775.0,6,24.7%,235,False
+S16,6,16,10 of Diamonds | 5 of Diamonds | 8 of Clubs,6 of Spades | 2 of Diamonds,23,8,Hit,450.0,Loss,-450.0,True,False,False,1325.0,5,26.3%,230,False
+S16,7,1,4 of Spades | 2 of Spades | 7 of Spades | 7 of Diamonds,2 of Spades | J of Clubs | 3 of Spades | 9 of Clubs,20,24,Hit,50.0,Win,50.0,False,True,False,2050.0,8,2.6%,304,False
+S16,7,2,7 of Hearts | 2 of Clubs | Q of Spades,8 of Spades | 4 of Spades | 3 of Diamonds | K of Diamonds,19,25,Hit,50.0,Win,50.0,False,True,False,2100.0,7,4.8%,297,False
+S16,7,3,10 of Hearts | 6 of Diamonds,Q of Hearts | A of Clubs,16,21,Stand,50.0,Loss,-50.0,False,False,False,2050.0,4,6.1%,293,False
+S16,7,4,5 of Hearts | J of Spades | Q of Spades,K of Clubs | 4 of Hearts,25,14,Hit,150.0,Loss,-150.0,True,False,False,1900.0,5,7.7%,288,False
+S16,7,5,5 of Spades | 7 of Hearts | 4 of Spades,8 of Clubs | 6 of Spades | A of Spades | 7 of Diamonds,16,22,Hit,450.0,Win,450.0,False,True,False,2350.0,7,9.9%,281,False
+S16,7,6,5 of Hearts | J of Spades | 6 of Diamonds,7 of Clubs | 9 of Clubs | K of Hearts,21,26,Hit,50.0,Win,50.0,False,True,False,2400.0,6,11.9%,275,False
+S16,7,7,3 of Diamonds | 8 of Hearts | 8 of Clubs,4 of Clubs | 10 of Clubs | 8 of Spades,19,22,Hit,50.0,Win,50.0,False,True,False,2450.0,6,13.8%,269,False
+S16,7,8,2 of Diamonds | 5 of Clubs | 3 of Spades | K of Spades,10 of Spades | 6 of Hearts | 9 of Spades,20,25,Hit,50.0,Win,50.0,False,True,False,2500.0,7,16.0%,262,False
+S16,7,9,10 of Spades | 2 of Clubs | 10 of Clubs,7 of Hearts | 3 of Clubs,22,10,Hit,50.0,Loss,-50.0,True,False,False,2450.0,5,17.6%,257,False
+S16,7,10,2 of Diamonds | K of Clubs | A of Clubs | J of Spades,9 of Diamonds | 9 of Diamonds,23,18,Hit,150.0,Loss,-150.0,True,False,False,2300.0,6,19.6%,251,False
+S16,7,11,3 of Clubs | 9 of Hearts | 5 of Diamonds,J of Diamonds | 6 of Clubs | K of Hearts,17,26,Hit,450.0,Win,450.0,False,True,False,2750.0,6,21.5%,245,False
+S16,7,12,3 of Clubs | 4 of Diamonds | K of Spades,J of Clubs | 2 of Spades | 2 of Hearts | 3 of Hearts,17,17,Hit,50.0,Draw,0.0,False,False,False,2750.0,7,23.7%,238,False
+S16,7,13,5 of Clubs | 5 of Diamonds | A of Diamonds,3 of Hearts | 4 of Diamonds | 8 of Hearts | A of Hearts | K of Diamonds,21,26,Hit,50.0,Win,50.0,False,True,False,2800.0,8,26.3%,230,False
+S16,7,14,8 of Hearts | 7 of Clubs | A of Spades,4 of Diamonds | Q of Spades | 7 of Spades,16,21,Hit,50.0,Loss,-50.0,False,False,False,2750.0,6,28.2%,224,False
+S16,7,15,4 of Hearts | Q of Spades | J of Hearts,6 of Diamonds | J of Clubs,24,16,Hit,150.0,Loss,-150.0,True,False,False,2600.0,5,29.8%,219,False
+S16,7,16,Q of Clubs | 5 of Diamonds | 9 of Clubs,7 of Spades | 8 of Hearts,24,15,Hit,450.0,Loss,-450.0,True,False,False,2150.0,5,31.4%,214,False
+S16,7,17,A of Clubs | 4 of Hearts | 10 of Clubs | 6 of Spades,10 of Spades | J of Diamonds,21,20,Hit,1350.0,Win,1350.0,False,False,False,3500.0,6,33.3%,208,False
+S16,7,18,6 of Diamonds | Q of Clubs,5 of Clubs | 2 of Clubs | 4 of Diamonds | Q of Spades,16,21,Stand,50.0,Loss,-50.0,False,False,False,3450.0,6,35.3%,202,False
+S16,7,19,3 of Spades | 2 of Spades | Q of Clubs | 8 of Clubs,J of Clubs | K of Diamonds,23,20,Hit,150.0,Loss,-150.0,True,False,False,3300.0,6,37.2%,196,False
+S16,7,20,8 of Diamonds | 9 of Hearts,5 of Clubs | 9 of Clubs | 10 of Diamonds,17,24,Stand,450.0,Win,450.0,False,True,False,3750.0,5,38.8%,191,False
+S16,7,21,2 of Clubs | 6 of Spades | J of Hearts,K of Spades | 10 of Diamonds,18,20,Hit,50.0,Loss,-50.0,False,False,False,3700.0,5,40.4%,186,False
+S16,7,22,7 of Diamonds | A of Diamonds,5 of Spades | 3 of Spades | Q of Hearts,18,18,Stand,150.0,Draw,0.0,False,False,False,3700.0,5,42.0%,181,False
+S16,7,23,5 of Clubs | 2 of Hearts | 2 of Diamonds | Q of Diamonds,7 of Spades | 5 of Hearts | J of Spades,19,22,Hit,50.0,Win,50.0,False,True,False,3750.0,7,44.2%,174,False
+S16,7,24,K of Hearts | 10 of Clubs,7 of Clubs | 4 of Clubs | 7 of Diamonds,20,18,Stand,50.0,Win,50.0,False,False,False,3800.0,5,45.8%,169,False
+S16,7,25,4 of Clubs | 5 of Diamonds | K of Hearts,9 of Spades | 3 of Spades | 10 of Hearts,19,22,Hit,50.0,Win,50.0,False,True,False,3850.0,6,47.8%,163,False
+S16,8,1,Q of Clubs | J of Spades,K of Clubs | K of Hearts,20,20,Stand,50.0,Draw,0.0,False,False,False,2000.0,4,1.3%,308,False
+S16,8,2,6 of Diamonds | Q of Diamonds,7 of Diamonds | 8 of Clubs | 3 of Spades,16,18,Stand,50.0,Loss,-50.0,False,False,False,1950.0,5,2.9%,303,False
+S16,8,3,Q of Clubs | 3 of Hearts | 5 of Hearts,2 of Clubs | Q of Hearts | 4 of Spades | 7 of Clubs,18,23,Hit,150.0,Win,150.0,False,True,False,2100.0,7,5.1%,296,False
+S16,8,4,4 of Hearts | 6 of Hearts | Q of Diamonds,10 of Clubs | K of Diamonds,20,20,Hit,50.0,Draw,0.0,False,False,False,2100.0,5,6.7%,291,False
+S16,8,5,6 of Hearts | 6 of Spades | 5 of Hearts,5 of Diamonds | 6 of Spades | 2 of Diamonds | 9 of Diamonds,17,22,Hit,50.0,Win,50.0,False,True,False,2150.0,7,9.0%,284,False
+S16,8,6,A of Spades | A of Clubs | 8 of Clubs,3 of Clubs | 7 of Hearts | 3 of Diamonds | A of Diamonds | Q of Spades,20,24,Hit,50.0,Win,50.0,False,True,False,2200.0,8,11.5%,276,False
+S16,8,7,10 of Spades | K of Spades,10 of Spades | 2 of Hearts | A of Diamonds | J of Clubs,20,23,Stand,50.0,Win,50.0,False,True,False,2250.0,6,13.5%,270,False
+S16,8,8,5 of Spades | 9 of Spades | 7 of Diamonds,2 of Spades | 2 of Hearts | J of Diamonds | 2 of Spades | J of Diamonds,21,26,Hit,50.0,Win,50.0,False,True,False,2300.0,8,16.0%,262,False
+S16,8,9,10 of Hearts | 4 of Diamonds | 7 of Spades,5 of Clubs | A of Clubs | 8 of Diamonds | 8 of Diamonds,21,22,Hit,50.0,Win,50.0,False,True,False,2350.0,7,18.3%,255,False
+S16,8,10,K of Hearts | 4 of Hearts | 8 of Hearts,Q of Diamonds | 3 of Spades,22,13,Hit,50.0,Loss,-50.0,True,False,False,2300.0,5,19.9%,250,False
+S16,8,11,2 of Spades | J of Spades | 7 of Clubs,10 of Hearts | 7 of Clubs,19,17,Hit,150.0,Win,150.0,False,False,False,2450.0,5,21.5%,245,False
+S16,8,12,8 of Spades | 4 of Hearts | 5 of Clubs,3 of Diamonds | 4 of Spades | 6 of Spades | 10 of Diamonds,17,23,Hit,50.0,Win,50.0,False,True,False,2500.0,7,23.7%,238,False
+S16,8,13,9 of Clubs | Q of Hearts,4 of Hearts | 7 of Spades | 9 of Clubs,19,20,Stand,50.0,Loss,-50.0,False,False,False,2450.0,5,25.3%,233,False
+S16,8,14,A of Hearts | K of Clubs,10 of Spades | K of Diamonds,21,20,Blackjack,150.0,Blackjack,225.0,False,False,True,2675.0,4,26.6%,229,False
+S16,8,15,5 of Spades | 9 of Spades | 9 of Hearts,7 of Clubs | J of Hearts,23,17,Hit,50.0,Loss,-50.0,True,False,False,2625.0,5,28.2%,224,False
+S16,8,16,K of Hearts | 9 of Spades,8 of Diamonds | 3 of Hearts | A of Spades | 7 of Spades,19,19,Stand,150.0,Draw,0.0,False,False,False,2625.0,6,30.1%,218,False
+S16,8,17,3 of Spades | Q of Diamonds | 4 of Spades,J of Clubs | 8 of Clubs,17,18,Hit,50.0,Loss,-50.0,False,False,False,2575.0,5,31.7%,213,False
+S16,8,18,6 of Clubs | 10 of Diamonds,5 of Hearts | 8 of Hearts | 3 of Spades | 9 of Diamonds,16,25,Stand,150.0,Win,150.0,False,True,False,2725.0,6,33.7%,207,False
+S16,8,19,6 of Diamonds | 9 of Diamonds | 6 of Clubs,4 of Diamonds | 2 of Clubs | J of Diamonds | 8 of Hearts,21,24,Hit,50.0,Win,50.0,False,True,False,2775.0,7,35.9%,200,False
+S16,8,20,4 of Spades | Q of Hearts | 6 of Spades,A of Hearts | 3 of Spades | 5 of Diamonds,20,19,Hit,50.0,Win,50.0,False,False,False,2825.0,6,37.8%,194,False
+S16,8,21,5 of Clubs | 4 of Clubs | 7 of Diamonds,2 of Spades | 4 of Diamonds | K of Diamonds | 10 of Hearts,16,26,Hit,50.0,Win,50.0,False,True,False,2875.0,7,40.1%,187,False
+S16,8,22,8 of Diamonds | 9 of Hearts,8 of Clubs | 6 of Clubs | 5 of Hearts,17,19,Stand,50.0,Loss,-50.0,False,False,False,2825.0,5,41.7%,182,False
+S16,8,23,Q of Hearts | Q of Hearts,J of Hearts | 5 of Hearts | 7 of Hearts,20,22,Stand,150.0,Win,150.0,False,True,False,2975.0,5,43.3%,177,False
+S16,8,24,8 of Hearts | 8 of Spades,J of Diamonds | 6 of Hearts | A of Diamonds,16,17,Stand,50.0,Loss,-50.0,False,False,False,2925.0,5,44.9%,172,False
+S16,8,25,3 of Clubs | 6 of Hearts | 9 of Hearts,K of Spades | 9 of Hearts,18,19,Hit,150.0,Loss,-150.0,False,False,False,2775.0,5,46.5%,167,False
+S16,9,1,9 of Hearts | 4 of Diamonds | 5 of Clubs,2 of Hearts | 4 of Diamonds | 8 of Diamonds | Q of Clubs,18,24,Hit,50.0,Win,50.0,False,True,False,2050.0,7,2.2%,305,False
+S16,9,2,5 of Hearts | A of Diamonds,6 of Spades | A of Clubs,16,17,Stand,50.0,Loss,-50.0,False,False,False,2000.0,4,3.5%,301,False
+S16,9,3,J of Spades | 7 of Diamonds,10 of Hearts | 8 of Diamonds,17,18,Stand,150.0,Loss,-150.0,False,False,False,1850.0,4,4.8%,297,False
+S16,9,4,10 of Clubs | A of Spades,8 of Spades | 7 of Diamonds,21,15,Blackjack,450.0,Blackjack,675.0,False,False,True,2525.0,4,6.1%,293,False
+S16,9,5,8 of Diamonds | 9 of Spades,Q of Clubs | Q of Hearts,17,20,Stand,50.0,Loss,-50.0,False,False,False,2475.0,4,7.4%,289,False
+S16,9,6,4 of Clubs | 5 of Spades | 6 of Clubs | 7 of Diamonds,9 of Diamonds | 5 of Spades,22,14,Hit,150.0,Loss,-150.0,True,False,False,2325.0,6,9.3%,283,False
+S16,9,7,7 of Clubs | K of Spades,8 of Clubs | 6 of Diamonds | 4 of Hearts,17,18,Stand,450.0,Loss,-450.0,False,False,False,1875.0,5,10.9%,278,False
+S16,9,8,2 of Diamonds | 3 of Hearts | K of Diamonds | K of Hearts,9 of Hearts | 10 of Hearts,25,19,Hit,1350.0,Loss,-1350.0,True,False,False,525.0,6,12.8%,272,False
+S16,10,1,3 of Clubs | 2 of Diamonds | 9 of Clubs | 8 of Diamonds,2 of Clubs | 6 of Spades,22,8,Hit,50.0,Loss,-50.0,True,False,False,1950.0,6,1.9%,306,False
+S16,10,2,8 of Spades | 7 of Diamonds | 2 of Hearts,A of Diamonds | 2 of Clubs | 5 of Spades,17,18,Hit,150.0,Loss,-150.0,False,False,False,1800.0,6,3.8%,300,False
+S16,10,3,5 of Diamonds | K of Clubs | 9 of Clubs,4 of Diamonds | J of Diamonds,24,14,Hit,450.0,Loss,-450.0,True,False,False,1350.0,5,5.4%,295,False
+S16,10,4,2 of Spades | 9 of Hearts | 4 of Diamonds | 8 of Hearts,A of Hearts | A of Hearts,23,12,Hit,1350.0,Loss,-1350.0,True,False,False,0.0,6,7.4%,289,False

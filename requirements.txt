@@ -1,0 +1,4 @@
+# Requirements
+flask
+numpy
+pandas

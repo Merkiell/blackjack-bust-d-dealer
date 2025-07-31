@@ -1,4 +1,1 @@
-# Requirements
-flask
-numpy
-pandas
+# No external dependencies required; only Python standard library is used.
